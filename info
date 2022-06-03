@@ -1,0 +1,5 @@
+nu mai am nev de clasa Cell
+o sa instantiez o matrice ori de 5x5,6x6,... in SudokuBoard si fac operatii pe ea
+asociez fiecare culoare cu un numar
+in validmove verific daca numarul pe care vr sa l introduc nu se gaseste cumva pe linia si coloana unde vr sa l pun
+makemove o sa puna numarul(asociat culorii) in matrice la pozitia dorita
